@@ -10,7 +10,7 @@ hash = {:name=>"Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {:railroads=>{:pieces=:4
+	monopoly = {:railroads=>{:pieces => 4
     }}
 
 end
